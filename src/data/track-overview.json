@@ -1,0 +1,63 @@
+{
+  "trackName": "量子计算",
+  "description": "量子计算是利用量子力学原理进行信息处理的新型计算范式，相比经典计算机在特定问题上具有指数级加速能力。当前正处于从实验室走向工程化和商业化的关键阶段。",
+  "subdivisions": [
+    {
+      "id": "quantum-hardware",
+      "name": "量子硬件",
+      "description": "包括超导量子比特、离子阱、光量子、中性原子等不同技术路线的量子处理器研发与制造",
+      "keyPlayers": [
+        "本源量子",
+        "国仪量子",
+        "图灵量子"
+      ],
+      "maturity": "工程化阶段"
+    },
+    {
+      "id": "quantum-software",
+      "name": "量子软件",
+      "description": "量子算法、量子编程语言、量子操作系统、量子云平台等软件层技术",
+      "keyPlayers": [
+        "弧光量子",
+        "华翊量子"
+      ],
+      "maturity": "早期探索"
+    },
+    {
+      "id": "quantum-communication",
+      "name": "量子通信",
+      "description": "基于量子密钥分发(QKD)的安全通信技术，包括量子城域网、量子卫星等",
+      "keyPlayers": [
+        "中国科大",
+        "中电信量子"
+      ],
+      "maturity": "工程化领先"
+    },
+    {
+      "id": "quantum-sensing",
+      "name": "量子传感",
+      "description": "利用量子效应实现超高精度测量的传感器技术",
+      "keyPlayers": [
+        "国仪量子"
+      ],
+      "maturity": "产业化初期"
+    },
+    {
+      "id": "quantum-error-correction",
+      "name": "量子纠错",
+      "description": "解决量子比特噪声问题的关键技术，是实现容错量子计算的基础",
+      "keyPlayers": [
+        "Riverlane",
+        "本源量子"
+      ],
+      "maturity": "技术攻坚"
+    }
+  ],
+  "marketSize": "全球量子计算投资规模突破500亿美元（2025）",
+  "keyTrends": [
+    "从NISQ（嘈杂中等规模量子）时代向容错量子计算过渡",
+    "硬件+软件协同成为商业化关键",
+    "量子通信在中国率先实现工程化",
+    "IPO窗口期开启，资本市场关注度提升"
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "companies": [],
+  "people": [],
+  "technologies": [
+    {
+      "id": "superconducting-qubit",
+      "name": "超导量子比特",
+      "category": "量子硬件",
+      "description": "目前最成熟的量子计算技术路线之一，需要极低温环境运行（约15毫开尔文）",
+      "maturity": "工程化",
+      "keyPlayers": ["本源量子", "IBM", "Google", "Rigetti"],
+      "subdivision": ["量子硬件"]
+    },
+    {
+      "id": "ion-trap",
+      "name": "离子阱",
+      "category": "量子硬件",
+      "description": "利用电磁场捕获离子作为量子比特，相干时间长，门保真度高",
+      "maturity": "工程化",
+      "keyPlayers": ["IonQ", "Quantinuum", "华翊量子", "启科量子"],
+      "subdivision": ["量子硬件"]
+    },
+    {
+      "id": "photonic-quantum",
+      "name": "光量子",
+      "category": "量子硬件",
+      "description": "利用光子作为量子比特，可室温运行，易于扩展，适合量子通信",
+      "maturity": "工程化",
+      "keyPlayers": ["图灵量子", "玻色量子", "PsiQuantum", "Xanadu"],
+      "subdivision": ["量子硬件"]
+    },
+    {
+      "id": "neutral-atom",
+      "name": "中性原子",
+      "category": "量子硬件",
+      "description": "新兴技术路线，可扩展性强，适合量子模拟",
+      "maturity": "早期",
+      "keyPlayers": ["QuEra", "Pasqal", "不筹量子"],
+      "subdivision": ["量子硬件"]
+    },
+    {
+      "id": "topological-qubit",
+      "name": "拓扑量子比特",
+      "category": "量子硬件",
+      "description": "理论上具有天然纠错能力，但技术难度极高",
+      "maturity": "研究阶段",
+      "keyPlayers": ["Microsoft"],
+      "subdivision": ["量子硬件"]
+    },
+    {
+      "id": "silicon-qubit",
+      "name": "硅基量子比特",
+      "category": "量子硬件",
+      "description": "基于半导体工艺，可利用现有芯片制造基础设施",
+      "maturity": "早期",
+      "keyPlayers": ["Intel", "Silicon Quantum Computing"],
+      "subdivision": ["量子硬件"]
+    },
+    {
+      "id": "quantum-error-correction",
+      "name": "量子纠错",
+      "category": "量子纠错",
+      "description": "解决量子比特噪声问题，实现容错量子计算的关键技术，是量子计算实用化的核心挑战",
+      "maturity": "技术攻坚",
+      "keyPlayers": ["Google", "IBM", "Riverlane", "Alice & Bob", "Nord Quantique"],
+      "subdivision": ["量子纠错"]
+    },
+    {
+      "id": "surface-code",
+      "name": "表面码",
+      "category": "量子纠错",
+      "description": "最主流的量子纠错编码方案，对硬件要求相对较低",
+      "maturity": "技术攻坚",
+      "keyPlayers": ["Google", "IBM"],
+      "subdivision": ["量子纠错"]
+    },
+    {
+      "id": "cat-qubit",
+      "name": "猫量子比特",
+      "category": "量子纠错",
+      "description": "一种具有内置纠错能力的量子比特设计",
+      "maturity": "早期",
+      "keyPlayers": ["Alice & Bob"],
+      "subdivision": ["量子纠错", "量子硬件"]
+    },
+    {
+      "id": "qkd",
+      "name": "量子密钥分发(QKD)",
+      "category": "量子通信",
+      "description": "基于量子力学原理的绝对安全通信技术，中国在该领域全球领先",
+      "maturity": "商业化",
+      "keyPlayers": ["国盾量子", "中科大", "中电信量子"],
+      "subdivision": ["量子通信"]
+    },
+    {
+      "id": "quantum-network",
+      "name": "量子网络",
+      "category": "量子通信",
+      "description": "连接多个量子节点的网络基础设施，是量子互联网的基础",
+      "maturity": "早期",
+      "keyPlayers": ["国盾量子", "Nu Quantum"],
+      "subdivision": ["量子通信"]
+    },
+    {
+      "id": "quantum-repeater",
+      "name": "量子中继",
+      "category": "量子通信",
+      "description": "解决量子通信距离限制的关键技术",
+      "maturity": "研究阶段",
+      "keyPlayers": ["中科大"],
+      "subdivision": ["量子通信"]
+    },
+    {
+      "id": "quantum-sensing",
+      "name": "量子传感",
+      "category": "量子传感",
+      "description": "利用量子效应实现超高精度测量，应用于导航、医疗、地质勘探等",
+      "maturity": "商业化",
+      "keyPlayers": ["国仪量子"],
+      "subdivision": ["量子传感"]
+    },
+    {
+      "id": "nv-center",
+      "name": "NV色心",
+      "category": "量子传感",
+      "description": "金刚石中的氮空位色心，可用于室温量子传感和计算",
+      "maturity": "工程化",
+      "keyPlayers": ["国仪量子", "Quantum Brilliance"],
+      "subdivision": ["量子传感", "量子硬件"]
+    },
+    {
+      "id": "quantum-algorithm",
+      "name": "量子算法",
+      "category": "量子软件",
+      "description": "专为量子计算机设计的算法，如Shor算法、Grover算法、VQE等",
+      "maturity": "研究阶段",
+      "keyPlayers": ["本源量子", "IBM", "Google"],
+      "subdivision": ["量子软件"]
+    },
+    {
+      "id": "quantum-compiler",
+      "name": "量子编译器",
+      "category": "量子软件",
+      "description": "将高级量子程序转换为硬件可执行指令的软件",
+      "maturity": "工程化",
+      "keyPlayers": ["本源量子", "IBM", "Quantinuum"],
+      "subdivision": ["量子软件"]
+    },
+    {
+      "id": "quantum-cloud",
+      "name": "量子云平台",
+      "category": "量子软件",
+      "description": "提供云端量子计算服务的平台",
+      "maturity": "商业化",
+      "keyPlayers": ["IBM", "Amazon Braket", "本源量子", "IonQ"],
+      "subdivision": ["量子软件"]
+    },
+    {
+      "id": "quantum-simulation",
+      "name": "量子模拟",
+      "category": "量子软件",
+      "description": "利用量子计算机模拟量子系统，应用于材料、化学、药物研发",
+      "maturity": "早期",
+      "keyPlayers": ["熵函数", "IBM"],
+      "subdivision": ["量子软件"]
+    }
+  ]
+}

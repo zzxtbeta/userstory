@@ -1,0 +1,1431 @@
+{
+  "news": [
+    {
+      "id": "news-001",
+      "title": "中性原子阵列：快速崛起的量子计算平台获研究突破",
+      "date": "2026-01-14",
+      "source": "Phys.org",
+      "url": "https://phys.org/news/2026-01-neutral-atom-arrays-rapidly-emerging.html",
+      "category": "技术动态",
+      "tags": [
+        "中性原子",
+        "可扩展性"
+      ],
+      "entities": [
+        "Aaron Holman",
+        "Yuan Xu"
+      ],
+      "summary": "研究人员利用光镊和超表面技术捕获1000个锶原子，该技术可扩展至10万个以上原子规模。",
+      "aiInsight": "中性原子技术的可扩展性突破有望降低量子计算成本，吸引更多投资进入该技术路线。这对于追求大规模量子比特的投资者来说是积极信号。",
+      "signalType": "利好",
+      "importance": 8,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-002",
+      "title": "Quantum Computing Stocks: UBS Eyes IBM, Google, IonQ",
+      "date": "2026-01-13",
+      "source": "Investor's Business Daily",
+      "url": "https://www.investors.com/news/technology/quantum-computing-stocks-ubs-eyes-ibm-google-ionq",
+      "category": "融资动态",
+      "tags": [
+        "股票",
+        "UBS"
+      ],
+      "entities": [
+        "UBS",
+        "IBM"
+      ],
+      "summary": "瑞银发布量子计算股票研究报告，关注IBM、谷歌、IonQ等公司。Infleqtion计划通过SPAC方式上市。",
+      "aiInsight": "瑞银等主流投行开始覆盖量子计算股票，标志着该领域正在进入主流投资视野。分析师的关注将提升市场流动性和估值透明度。",
+      "signalType": "利好",
+      "importance": 8,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-003",
+      "title": "量子计算相关公司名录",
+      "date": "2026-01-01",
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_companies_involved_in_quantum_computing,_communication_or_sensing",
+      "category": "工商动态",
+      "tags": [
+        "公司",
+        "技术"
+      ],
+      "entities": [
+        "D-Wave",
+        "Google"
+      ],
+      "summary": "全球量子计算、量子通信和量子传感领域公司名录汇总。",
+      "aiInsight": "该名录为投资者提供了量子计算生态系统的全景视图，有助于识别不同技术路线和应用领域的投资标的。",
+      "signalType": "中性",
+      "importance": 6,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-004",
+      "title": "量子计算上市公司名录",
+      "date": "2026-01-01",
+      "source": "Quantum Computing Report",
+      "url": "https://quantumcomputingreport.com/public-companies",
+      "category": "工商动态",
+      "tags": [
+        "上市公司"
+      ],
+      "entities": [
+        "Amazon",
+        "Arqit"
+      ],
+      "summary": "量子计算领域上市公司完整名录，包括纯量子公司和涉足量子业务的大型科技公司。",
+      "aiInsight": "上市公司为投资者提供了流动性较好的量子计算投资渠道，相比私募投资更易于进出。",
+      "signalType": "中性",
+      "importance": 7,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-005",
+      "title": "2026年最值得投资的8只量子计算股票",
+      "date": "2026-01-01",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/quantum-computing-stocks",
+      "category": "融资动态",
+      "tags": [
+        "股票"
+      ],
+      "entities": [
+        "IonQ",
+        "Rigetti"
+      ],
+      "summary": "Stocks like IonQ, Rigetti for quantum investments.",
+      "aiInsight": "Stock recommendations for public market exposure.",
+      "signalType": "利好",
+      "importance": 8,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-006",
+      "title": "List of top Quantum Computing Companies",
+      "date": "2026-01-01",
+      "source": "Crunchbase",
+      "url": "https://www.crunchbase.com/hub/quantum-computing-companies",
+      "category": "工商动态",
+      "tags": [
+        "top companies"
+      ],
+      "entities": [
+        "Crunchbase"
+      ],
+      "summary": "Overview of quantum companies with stats.",
+      "aiInsight": "Data for due diligence in investments.",
+      "signalType": "中性",
+      "importance": 6,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-007",
+      "title": "25 Quantum Computing Companies to Know",
+      "date": "2026-01-01",
+      "source": "Built In",
+      "url": "https://builtin.com/hardware/quantum-computing-companies",
+      "category": "工商动态",
+      "tags": [
+        "companies to know"
+      ],
+      "entities": [
+        "IBM",
+        "IonQ"
+      ],
+      "summary": "Top companies like IBM, IonQ.",
+      "aiInsight": "Curated list for emerging investments.",
+      "signalType": "中性",
+      "importance": 7,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-008",
+      "title": "Leading Top 10 Quantum Computing Companies in the USA",
+      "date": "2026-01-01",
+      "source": "Quest GLT",
+      "url": "https://www.questglt.com/blogs/top-10-quantum-computing-companies-in-usa",
+      "category": "工商动态",
+      "tags": [
+        "USA companies"
+      ],
+      "entities": [
+        "Rajeeb Hazra",
+        "Quest Global",
+        "Quantinuum"
+      ],
+      "summary": "Top USA companies like Quantinuum, Baidu.",
+      "aiInsight": "US focus for geographic investments.",
+      "signalType": "中性",
+      "importance": 7,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-009",
+      "title": "Quantum computing - Wikipedia",
+      "date": "2026-01-01",
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Quantum_computing",
+      "category": "技术动态",
+      "tags": [
+        "history",
+        "algorithms"
+      ],
+      "entities": [
+        "Paul Benioff",
+        "Peter Shor"
+      ],
+      "summary": "History from Benioff's quantum Turing machine to Shor's algorithm.",
+      "aiInsight": "Foundational knowledge for informed investing.",
+      "signalType": "中性",
+      "importance": 6,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-010",
+      "title": "8 Quantum Computing Stocks to Watch and Invest in 2026",
+      "date": "2025-12-29",
+      "source": "BlueQubit",
+      "url": "https://www.bluequbit.io/quantum-computing-stocks",
+      "category": "融资动态",
+      "tags": [
+        "股票"
+      ],
+      "entities": [
+        "IonQ",
+        "Alphabet"
+      ],
+      "summary": "Stocks like IonQ, Alphabet for 2026.",
+      "aiInsight": "Forecasts for stock performance.",
+      "signalType": "利好",
+      "importance": 8,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-011",
+      "title": "量子计算机新闻速递",
+      "date": "2025-12-26",
+      "source": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/computers_math/quantum_computers",
+      "category": "技术动态",
+      "tags": [
+        "芯片",
+        "量子比特"
+      ],
+      "entities": [
+        "Princeton",
+        "UChicago"
+      ],
+      "summary": "New microchip-sized device and tantalum-silicon qubit with millisecond survival.",
+      "aiInsight": "Hardware innovations like these could attract funding for scalable quantum systems.",
+      "signalType": "利好",
+      "importance": 8,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-012",
+      "title": "IQM量子计算机在奥卢开设新研发办公室",
+      "date": "2025-11-13",
+      "source": "IQM Quantum Computers",
+      "url": "https://meetiqm.com/company/press-releases",
+      "category": "工商动态",
+      "tags": [
+        "扩张",
+        "研发"
+      ],
+      "entities": [
+        "IQM",
+        "Telefónica"
+      ],
+      "summary": "IQM expanded with new office and partnerships like with Telefónica for infrastructure.",
+      "aiInsight": "Expansions signal growth, attractive for regional investment funds.",
+      "signalType": "利好",
+      "importance": 7,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-013",
+      "title": "量子计算会比AI更大吗？",
+      "date": "2025-11-05",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c04gvx7egw5o",
+      "category": "新闻动态",
+      "tags": [
+        "量子vs AI",
+        "公告"
+      ],
+      "entities": [
+        "Microsoft",
+        "Google"
+      ],
+      "summary": "Quantum could surpass AI in impact, with recent announcements from Microsoft and Google, though real-world applications are years away.",
+      "aiInsight": "Quantum's potential for drug discovery and complex problems offers massive ROI, but stock warnings of 62% drops highlight volatility. Investors should consider long-term horizons amid AI bubble concerns.",
+      "signalType": "中性",
+      "importance": 7,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-014",
+      "title": "谷歌宣布突破：量子计算机超越超级计算机",
+      "date": "2025-10-22",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2025/oct/22/google-hails-breakthrough-as-quantum-computer-surpasses-ability-of-supercomputers",
+      "category": "技术动态",
+      "tags": [
+        "突破",
+        "算法"
+      ],
+      "entities": [
+        "Google"
+      ],
+      "summary": "Google's algorithm performed task beyond classical computers, though applications years away.",
+      "aiInsight": "Demonstrates progress, boosting investor interest in Google Quantum AI.",
+      "signalType": "利好",
+      "importance": 9,
+      "subdivision": [
+        "量子软件"
+      ]
+    },
+    {
+      "id": "news-015",
+      "title": "量子计算公司指南：基于4大生态图谱",
+      "date": "2025-10-22",
+      "source": "AIMultiple",
+      "url": "https://research.aimultiple.com/quantum-computing-companies",
+      "category": "工商动态",
+      "tags": [
+        "供应商",
+        "图谱"
+      ],
+      "entities": [
+        "D-Wave",
+        "IBM"
+      ],
+      "summary": "Guide to quantum companies and ecosystems.",
+      "aiInsight": "Maps assist in strategic investment mapping.",
+      "signalType": "中性",
+      "importance": 6,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-016",
+      "title": "2025年量子计算公司（76家主要玩家）",
+      "date": "2025-09-23",
+      "source": "The Quantum Insider",
+      "url": "https://thequantuminsider.com/2025/09/23/top-quantum-computing-companies",
+      "category": "工商动态",
+      "tags": [
+        "公司名录",
+        "玩家"
+      ],
+      "entities": [
+        "IBM",
+        "Google",
+        "Microsoft"
+      ],
+      "summary": "Updated list of 76 quantum companies driving innovation.",
+      "aiInsight": "Comprehensive overview aids investors in identifying key players.",
+      "signalType": "中性",
+      "importance": 7,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-017",
+      "title": "Quantum Computing Companies - IBM (US) and AWS (US) are the Key Players",
+      "date": "2025-09-11",
+      "source": "MarketsandMarkets",
+      "url": "https://www.marketsandmarkets.com/ResearchInsight/quantum-computing-market.asp",
+      "category": "工商动态",
+      "tags": [
+        "key players"
+      ],
+      "entities": [
+        "IBM",
+        "D-Wave"
+      ],
+      "summary": "Major vendors including IBM, D-Wave, with 41-54% market share.",
+      "aiInsight": "Market leaders for stable investments.",
+      "signalType": "中性",
+      "importance": 8,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-018",
+      "title": "量子计算正当时，但技术仍属未来",
+      "date": "2025-06-27",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2025/06/27/quantum-computing-applications-how-it-works.html",
+      "category": "新闻动态",
+      "tags": [
+        "初创公司",
+        "收入"
+      ],
+      "entities": [
+        "McKinsey",
+        "Microsoft",
+        "Google"
+      ],
+      "summary": "Startups attracted $2 billion in 2024, but revenue under $750 million, focused on simulations.",
+      "aiInsight": "Limited revenue but growing funding suggests speculative investments with high upside.",
+      "signalType": "中性",
+      "importance": 7,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-019",
+      "title": "量子之年：2025年从概念走向现实",
+      "date": "2025-06-23",
+      "source": "McKinsey",
+      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-year-of-quantum-from-concept-to-reality-in-2025",
+      "category": "融资动态",
+      "tags": [
+        "收入增长",
+        "融资"
+      ],
+      "entities": [
+        "Singapore",
+        "Jeremy O'Brien",
+        "PsiQuantum"
+      ],
+      "summary": "Quantum computing revenue could reach $72 billion by 2035 from $4 billion in 2024, with $2 billion in startup funding, 50% up from 2023.",
+      "aiInsight": "预计到2035年量子计算收入将从2024年的40亿美元增长到720亿美元，将量子定位为高增长领域。澳大利亚对PsiQuantum的6.2亿美元投资等政府投资表明稳定的支持，鼓励风险投资参与，尽管存在风险。",
+      "signalType": "利好",
+      "importance": 9,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-020",
+      "title": "15 Quantum Computing Companies & Startups 2025",
+      "date": "2025-06-05",
+      "source": "Exploding Topics",
+      "url": "https://explodingtopics.com/blog/quantum-computing-startups",
+      "category": "工商动态",
+      "tags": [
+        "初创公司"
+      ],
+      "entities": [
+        "Infleqtion",
+        "Qiskit"
+      ],
+      "summary": "Startups like Infleqtion, Qiskit.",
+      "aiInsight": "Emerging startups for high-risk investments.",
+      "signalType": "利好",
+      "importance": 8,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-021",
+      "title": "12 companies building quantum computers",
+      "date": "2025-03-28",
+      "source": "TechTarget",
+      "url": "https://www.techtarget.com/searchdatacenter/feature/Companies-building-quantum-computers",
+      "category": "工商动态",
+      "tags": [
+        "builders"
+      ],
+      "entities": [
+        "Alice & Bob",
+        "Amazon"
+      ],
+      "summary": "Companies like Alice & Bob, Amazon building quantum computers.",
+      "aiInsight": "Focus on hardware developers for core tech investments.",
+      "signalType": "中性",
+      "importance": 7,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-022",
+      "title": "2025年十八大量子计算机公司",
+      "date": "2025-03-07",
+      "source": "SpinQ",
+      "url": "https://www.spinquanta.com/news-detail/quantum-computer-manufacturers",
+      "category": "工商动态",
+      "tags": [
+        "制造商"
+      ],
+      "entities": [
+        "IBM",
+        "SpinQ"
+      ],
+      "summary": "Leading manufacturers like IBM, SpinQ in quantum hardware.",
+      "aiInsight": "Focus on hardware leaders for supply chain investments.",
+      "signalType": "利好",
+      "importance": 8,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-023",
+      "title": "十大领先量子计算公司",
+      "date": "2025-02-10",
+      "source": "BlueQubit",
+      "url": "https://www.bluequbit.io/quantum-computing-companies",
+      "category": "工商动态",
+      "tags": [
+        "领先公司"
+      ],
+      "entities": [
+        "BlueQubit",
+        "IBM",
+        "Google"
+      ],
+      "summary": "Top companies like BlueQubit, IBM, Google leading the field.",
+      "aiInsight": "Highlights investment targets in cloud and hardware.",
+      "signalType": "利好",
+      "importance": 8,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-024",
+      "title": "2024年量子计算十大预测",
+      "date": "2025-01-24",
+      "source": "Quantum Machines",
+      "url": "https://www.quantum-machines.co/blog/quantum-computing-predictions-for-2024",
+      "category": "新闻动态",
+      "tags": [
+        "预测",
+        "硬件进展"
+      ],
+      "entities": [
+        "Quantum Machines"
+      ],
+      "summary": "Predictions include hardware advances, software evolution, and increased commercial investment following 2023 breakthroughs like 48 logical qubits and new error correction codes.",
+      "aiInsight": "2024 predictions point to accelerated investment in quantum hardware and software, building on 2023's breakthroughs. Commercial interest is rising, with potential for early quantum advantage by 2025, offering investors opportunities in scalable systems. However, challenges in fault-tolerance suggest a focus on companies advancing error correction for long-term gains. The sector's optimism could drive valuations higher, but investors should diversify across modalities to hedge against technical uncertainties.",
+      "signalType": "中性",
+      "importance": 7,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-025",
+      "title": "18 Innovative Public Quantum Computing Companies From Around The Planet",
+      "date": "2025-01-24",
+      "source": "Quantum Zeitgeist",
+      "url": "https://quantumzeitgeist.com/public-quantum-computing-companies",
+      "category": "工商动态",
+      "tags": [
+        "上市公司"
+      ],
+      "entities": [
+        "Rigetti",
+        "IonQ"
+      ],
+      "summary": "Public companies like Rigetti, IonQ.",
+      "aiInsight": "Public options for easier access.",
+      "signalType": "中性",
+      "importance": 7,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "title": "QuEra 公布逻辑量子比特路线图，2026年目标实现百位级逻辑量子比特",
+      "date": "2025-01-10",
+      "category": "技术动态",
+      "summary": "QuEra 发布激进技术路线图，计划在2026年推出拥有100个逻辑量子比特的纠错量子计算机。基于其独特的原子移动架构，QuEra 展示了在不增加物理资源情况下实现大规模纠错的可行性。",
+      "aiInsight": "QuEra 正在引领中性原子阵列技术的快速崛起。相比超导和离子阱，中性原子在大规模扩展上的独特优势使其成为实现容错量子计算的有力竞争者。",
+      "subdivision": [
+        "量子硬件"
+      ],
+      "techRoute": [
+        "中性原子量子比特"
+      ],
+      "tags": [
+        "中性原子",
+        "路线图",
+        "纠错"
+      ],
+      "entities": [
+        "QuEra Computing",
+        "Pasqal"
+      ],
+      "id": "news-026",
+      "importance": 8,
+      "signalType": "利好"
+    },
+    {
+      "title": "七部门发布《未来产业创新发展意见》，量子信息列为首位",
+      "date": "2025-01-08",
+      "source": "工信部",
+      "url": "https://www.miit.gov.cn/",
+      "category": "政策动态",
+      "summary": "工信部联合教育部、科技部等七部门发布关于推动未来产业创新发展的实施意见。文件中明确将量子计算机、量子通信、量子测量列为未来产业核心方向，提出要建设国家级量子信息未来产业科技园。",
+      "aiInsight": "政策风向标。与以往的规划不同，此次更强调'产业科技园'和'场景应用'，意味着国家资金将从纯科研向'科研+产业孵化'双轮驱动转变，利好园区型量子企业。",
+      "signalType": "利好",
+      "importance": 9,
+      "subdivision": [
+        "量子硬件",
+        "量子软件"
+      ],
+      "techRoute": [],
+      "tags": [
+        "政策",
+        "十四五"
+      ],
+      "entities": [
+        "工信部"
+      ],
+      "id": "news-027"
+    },
+    {
+      "id": "news-028",
+      "title": "Forrester：尽管2024年取得进展，量子计算仍处于实验阶段",
+      "date": "2025-01-06",
+      "source": "TechNewsWorld",
+      "url": "https://www.technewsworld.com/story/quantum-computing-remains-experimental-despite-2024-advances-forrester-179514.html",
+      "category": "技术动态",
+      "tags": [
+        "实验性",
+        "进展"
+      ],
+      "entities": [
+        "Forrester"
+      ],
+      "summary": "Despite strides in 2024, quantum computing hasn't shown practical advantage over classical computers yet.",
+      "aiInsight": "While experimental, 2024 advances indicate nearing commercialization, appealing to long-term investors. Focus on firms demonstrating error reduction for potential breakthroughs, balancing hype with realistic timelines.",
+      "signalType": "中性",
+      "importance": 6,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "title": "华翊量子完成新一轮融资，加速离子阱量子计算云平台部署",
+      "date": "2025-01-05",
+      "category": "融资动态",
+      "summary": "华翊量子宣布完成数亿元人民币的新一轮融资。本轮资金将主要用于其高保真度离子阱量子计算机的规模化制造及云平台的商业化推广，并计划向用户开放更高比特数的算力服务。",
+      "aiInsight": "作为清华大学孵化的企业，华翊量子在长相干时间和高门保真度方面具有壁垒。新一轮融资显示了资本市场对离子阱稳健发展的信心。",
+      "subdivision": [
+        "量子硬件",
+        "量子软件"
+      ],
+      "techRoute": [
+        "离子阱量子比特"
+      ],
+      "tags": [
+        "离子阱",
+        "融资",
+        "清华系"
+      ],
+      "entities": [
+        "华翊量子",
+        "段路明"
+      ],
+      "id": "news-029",
+      "importance": 8,
+      "signalType": "利好"
+    },
+    {
+      "id": "news-030",
+      "title": "CEO寄语：2024年12月",
+      "date": "2025-01-01",
+      "source": "Quantum Computing Inc",
+      "url": "https://quantumcomputinginc.com/news",
+      "category": "人物动态",
+      "tags": [
+        "CEO更新",
+        "进展"
+      ],
+      "entities": [
+        "William McGann"
+      ],
+      "summary": "CEO William McGann updates on strategic progress, including restructuring and reshaping the business in early 2024.",
+      "aiInsight": "Company's mid-year updates signal operational improvements, potentially attractive for investors seeking turnaround stories in quantum.",
+      "signalType": "中性",
+      "importance": 6,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-031",
+      "title": "2024年量子计算年度回顾",
+      "date": "2024-12-30",
+      "source": "Quantum Pirates",
+      "url": "https://quantumpirates.substack.com/p/the-year-in-quantum-computing-december",
+      "category": "新闻动态",
+      "tags": [
+        "年度回顾",
+        "投资"
+      ],
+      "entities": [
+        "Atom Computing",
+        "Danish government"
+      ],
+      "summary": "Atom Computing secured $10 million from Denmark, highlighting global interest and surge in investments recognizing quantum's strategic importance.",
+      "aiInsight": "Global investments surged in 2024, with government backing emphasizing quantum's national security value. This trend suggests stable funding streams for investors, potentially leading to international partnerships and diversified portfolios.",
+      "signalType": "利好",
+      "importance": 8,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-032",
+      "title": "2024年量子计算进展聚焦安全问题",
+      "date": "2024-12-27",
+      "source": "Dark Reading",
+      "url": "https://www.darkreading.com/cyber-risk/quantum-computing-advances-2024-security-spotlight",
+      "category": "技术动态",
+      "tags": [
+        "安全",
+        "里程碑"
+      ],
+      "entities": [
+        "Google",
+        "Microsoft",
+        "Riken"
+      ],
+      "summary": "Milestones like Google's Willow chip and Microsoft's 24-qubit achievement highlight progress, raising security concerns.",
+      "aiInsight": "Advances underscore need for quantum-safe security investments, creating opportunities in cybersecurity firms.",
+      "signalType": "中性",
+      "importance": 7,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-033",
+      "title": "2024年量子领域最受关注的十大新闻",
+      "date": "2024-12-23",
+      "source": "IoT World Today",
+      "url": "https://www.iotworldtoday.com/quantum/enter-quantum-s-top-10-most-read-stories-of-2024",
+      "category": "新闻动态",
+      "tags": [
+        "量子技术",
+        "应用"
+      ],
+      "entities": [
+        "IoT World Today"
+      ],
+      "summary": "Quantum computing and technologies advanced toward real-world applications in 2024, with top stories highlighting strides in useful implementations.",
+      "aiInsight": "The progression toward practical quantum applications in 2024 signals emerging investment opportunities in hardware and software integration. As technologies mature, sectors like IoT could see transformative efficiencies, attracting VC focus. Investors should monitor adoption rates, as early movers may capture market share, though regulatory and scalability risks persist.",
+      "signalType": "利好",
+      "importance": 8,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-034",
+      "title": "估值120亿！本源量子再引资本重注，安徽跑出量子黑马",
+      "date": "2024-12-15",
+      "source": "投资界",
+      "url": "https://mp.weixin.qq.com/s/q_ObLmHQfcJnkM_nNqDCag",
+      "category": "融资动态",
+      "tags": [
+        "本源量子",
+        "融资",
+        "估值",
+        "IPO"
+      ],
+      "entities": [
+        "本源量子",
+        "郭国平"
+      ],
+      "summary": "本源量子基于120亿元估值完成股权交易。作为中国首家全栈式量子计算企业，标志着市场对硬科技定价逻辑的转变。",
+      "aiInsight": "这是量子计算赛道估值体系重构的标志性事件。120亿估值意味着资本市场开始认可全栈能力的护城河价值——从量子芯片到操作系统到云平台的完整布局，而非单点技术突破。本源量子的IPO预期强烈，将成为中国量子计算第一股的有力竞争者，其估值将为后续企业提供重要参考锚点。",
+      "signalType": "利好",
+      "importance": 9,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "title": "启科量子分布式离子阱量子计算机工程机取得关键进展",
+      "date": "2024-12-10",
+      "category": "技术动态",
+      "summary": "启科量子分布式离子阱量子计算工程化发布最新进展，验证了模块化离子阱节点间的高保真度纠缠分发。这一进展为其“天算”系列量子计算机的扩展性奠定了基础。",
+      "aiInsight": "分布式架构是解决离子阱路线扩展性瓶颈的关键路径。启科量子专注于“量子计算+量子通信”的融合发展，其在光阴路接口上的积累正转化为整机系统的工程优势。",
+      "subdivision": [
+        "量子硬件",
+        "量子通信"
+      ],
+      "techRoute": [
+        "离子阱量子比特"
+      ],
+      "tags": [
+        "离子阱",
+        "分布式计算"
+      ],
+      "entities": [
+        "启科量子"
+      ],
+      "id": "news-035",
+      "importance": 8,
+      "signalType": "利好"
+    },
+    {
+      "id": "news-036",
+      "title": "认识Willow：谷歌最先进的量子芯片",
+      "date": "2024-12-09",
+      "source": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/research/google-willow-quantum-chip",
+      "category": "技术动态",
+      "tags": [
+        "纠错技术",
+        "性能"
+      ],
+      "entities": [
+        "Google"
+      ],
+      "summary": "Willow chip reduces errors, performs computations faster than supercomputers.",
+      "aiInsight": "Willow芯片在减少错误方面取得突破，计算速度超越超级计算机，为大规模量子计算机铺平道路，投资潜力巨大。这是量子纠错领域的重要里程碑，标志着向实用量子计算迈出关键一步。",
+      "signalType": "利好",
+      "importance": 10,
+      "subdivision": [
+        "量子纠错"
+      ]
+    },
+    {
+      "title": "Google发布'Willow'量子芯片，量子纠错迎历史性转折点",
+      "date": "2024-12-09",
+      "source": "Google Quantum AI Blog",
+      "url": "https://blog.google/technology/research/google-quantum-ai-willow-chip/",
+      "category": "技术动态",
+      "summary": "Google Quantum AI发布代号为'Willow'的新一代超导量子芯片。实验表明，随着逻辑量子比特编码规模的扩大，错误率首次呈指数级下降，标志着从'噪声中尺度量子(NISQ)'向'容错量子计算'迈出了关键一步。",
+      "aiInsight": "这是量子计算领域的'北极星'时刻。如果纠错能随规模线性或指数优化，商业化路径将大幅缩短。Google此举再次确立了其在超导路线上的全球领跑地位，将给IBM和Rigetti带来巨大的技术竞争压力。",
+      "signalType": "利好",
+      "importance": 10,
+      "subdivision": [
+        "量子硬件",
+        "量子纠错"
+      ],
+      "techRoute": [
+        "超导量子比特"
+      ],
+      "tags": [
+        "里程碑",
+        "纠错",
+        "芯片"
+      ],
+      "entities": [
+        "Google",
+        "Google Quantum AI",
+        "Hartmut Neven"
+      ],
+      "id": "news-037"
+    },
+    {
+      "title": "IBM量子峰会2024：部署欧洲数据中心，Heron处理器性能再升级",
+      "date": "2024-12-05",
+      "source": "IBM Newsroom",
+      "url": "https://newsroom.ibm.com/quantum",
+      "category": "商业合作",
+      "summary": "在年度量子峰会上，IBM宣布在德国埃宁根部署最新的量子数据中心，均配备最新的Heron处理器。同时通过软件优化，Heron在执行复杂电路时的速度较去年提升了50%，并公布了System Two的新扩容计划。",
+      "aiInsight": "IBM的全球化部署策略非常激进，旨在通过'数据主权'合规来锁定各国政府和大型科企的订单。量子计算正从'实验室'走向'区域数据中心'。",
+      "signalType": "中性",
+      "importance": 7,
+      "subdivision": [
+        "量子硬件",
+        "量子软件"
+      ],
+      "techRoute": [
+        "超导量子比特"
+      ],
+      "tags": [
+        "全球化",
+        "基建"
+      ],
+      "entities": [
+        "IBM"
+      ],
+      "id": "news-038"
+    },
+    {
+      "title": "Amazon Braket 扩展硬件支持，引入新型中性原子与超导量子处理器",
+      "date": "2024-12-01",
+      "category": "商业合作",
+      "summary": "Amazon Braket 宣布新增多款QPU支持，包括 QuEra 的最新中性原子设备和 IQM 的超导处理器。此次更新进一步降低了开发者接触不同技术路线硬件的门槛。",
+      "aiInsight": "AWS 继续扮演“量子计算应用商店”的角色，通过聚合不同技术路线的头部硬件厂商，为用户提供一站式测试环境，降低了用户试错成本。",
+      "subdivision": [
+        "量子软件"
+      ],
+      "techRoute": [
+        "中性原子量子比特",
+        "超导量子比特"
+      ],
+      "tags": [
+        "量子云",
+        "AWS",
+        "生态聚合"
+      ],
+      "entities": [
+        "Amazon Braket",
+        "QuEra Computing",
+        "IQM Quantum Computers"
+      ],
+      "id": "news-039",
+      "importance": 8,
+      "signalType": "利好"
+    },
+    {
+      "title": "D-Wave 推出 Advantage2 原型机，量子退火性能大幅提升",
+      "date": "2024-11-28",
+      "category": "技术动态",
+      "summary": "D-Wave Quantum 宣布其下一代 Advantage2 量子退火系统的最新原型机已向云端用户开放。新系统拥有1200+量子比特，在解决复杂优化问题上的相干时间翻倍，求解精度显著提高。",
+      "aiInsight": "D-Wave 的量子退火技术在组合优化问题的商业应用上依然最为成熟。Advantage2 的性能提升进一步增强了其在物流、金融和材料科学领域的实用性。",
+      "subdivision": [
+        "量子硬件"
+      ],
+      "techRoute": [
+        "量子退火"
+      ],
+      "tags": [
+        "量子退火",
+        "优化问题"
+      ],
+      "entities": [
+        "Alan Baratz",
+        "D-Wave Quantum"
+      ],
+      "id": "news-040",
+      "importance": 8,
+      "signalType": "利好"
+    },
+    {
+      "id": "news-041",
+      "title": "不筹量子完成数千万天使轮融资",
+      "date": "2024-11-20",
+      "source": "36氪",
+      "url": "https://mp.weixin.qq.com/s/ujGbnZRuuf8wEPWmXe6HXw",
+      "category": "融资动态",
+      "tags": [
+        "不筹量子",
+        "天使轮",
+        "中性原子",
+        "复旦"
+      ],
+      "entities": [
+        "不筹量子"
+      ],
+      "summary": "上海不筹量子完成数千万天使轮融资。公司源自复旦大学，专注于中性原子量子计算路线。",
+      "aiInsight": "中性原子路线是量子计算的新兴技术方向，相比超导和离子阱具有更好的可扩展性。复旦系团队的入场说明学术界正在加速技术转化。天使轮融资虽然金额不大，但标志着资本开始关注多元化技术路线，而非只押注成熟路线。这对整个量子计算生态的健康发展是积极信号。",
+      "signalType": "中性",
+      "importance": 6,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-042",
+      "title": "微软与Atom Computing推出创纪录逻辑量子比特商用量子机",
+      "date": "2024-11-19",
+      "source": "Microsoft Azure",
+      "url": "https://azure.microsoft.com/en-us/blog/quantum/2024/11/19/microsoft-and-atom-computing-offer-a-commercial-quantum-machine-with-the-largest-number-of-entangled-logical-qubits-on-record",
+      "category": "技术动态",
+      "tags": [
+        "逻辑量子比特",
+        "中性原子"
+      ],
+      "entities": [
+        "Microsoft",
+        "Atom Computing"
+      ],
+      "summary": "Achieved 24 entangled logical qubits with 99.6% fidelity, advancing reliable computing.",
+      "aiInsight": "Milestone in error correction boosts confidence, potentially accelerating commercial investments.",
+      "signalType": "利好",
+      "importance": 9,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "title": "本源量子'悟空'超导量子计算机全球访问量突破千万",
+      "date": "2024-11-15",
+      "source": "安徽日报",
+      "url": "https://www.ahpro.gov.cn/",
+      "category": "新闻动态",
+      "summary": "据本源量子云平台数据显示，中国第三代自主超导量子计算机'本源悟空'已累计为全球130多个国家和地区提供量子算力服务，远程访问次数突破1500万次，验证了国产量子算力在科研与应用端的稳定性。",
+      "aiInsight": "虽然单机性能与IBM仍有差距，但庞大的访问量意味着生态构建的初步成功。高频的使用反馈是优化编译器和芯片控制系统的核心数据来源，中国正通过'云平台'模式缩小生态差距。",
+      "signalType": "利好",
+      "importance": 8,
+      "subdivision": [
+        "量子硬件",
+        "量子软件"
+      ],
+      "techRoute": [
+        "超导量子比特"
+      ],
+      "tags": [
+        "生态",
+        "出海",
+        "里程碑"
+      ],
+      "entities": [
+        "郭国平",
+        "本源量子"
+      ],
+      "id": "news-043"
+    },
+    {
+      "title": "国仪量子发布量子钻石原子力显微镜新一代产品，大幅提升传感分辨率",
+      "date": "2024-11-15",
+      "category": "技术动态",
+      "summary": "国仪量子发布新一代量子钻石原子力显微镜（QDAFM），基于NV色心量子传感技术，实现了纳米级的高空间分辨率磁学成像。新产品在灵敏度和稳定性上取得显著突破，为材料科学和半导体检测提供了更精确的量子测量工具。",
+      "aiInsight": "量子传感是商业化落地最快的领域之一。国仪量子迭代核心仪器，巩固了科研市场地位，也为工业级无损检测提供了解决方案。",
+      "subdivision": [
+        "量子传感"
+      ],
+      "techRoute": [
+        "中性原子量子比特"
+      ],
+      "tags": [
+        "量子传感",
+        "精密测量",
+        "NV色心"
+      ],
+      "entities": [
+        "国仪量子"
+      ],
+      "id": "news-044",
+      "importance": 8,
+      "signalType": "利好"
+    },
+    {
+      "id": "news-045",
+      "title": "拥抱未来：量子计算革命正在开启",
+      "date": "2024-11-07",
+      "source": "ISACA",
+      "url": "https://www.isaca.org/resources/news-and-trends/industry-news/2024/embracing-the-future-the-quantum-computing-revolution-begins-now",
+      "category": "技术动态",
+      "tags": [
+        "量子革命",
+        "网络安全"
+      ],
+      "entities": [
+        "IBM",
+        "Einstein"
+      ],
+      "summary": "Quantum computers could revolutionize fields like medicine and ML but pose cybersecurity risks by breaking current encryption.",
+      "aiInsight": "Quantum's potential to disrupt encryption presents both risks and opportunities for investors in cybersecurity. Prioritizing quantum-resistant tech could yield defensive plays, with early adoption offering competitive edges. The sector's transformative impact suggests high-growth potential, but ethical and regulatory concerns may temper short-term returns.",
+      "signalType": "中性",
+      "importance": 7,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "title": "中国电信正式入主国盾量子，央企国家队加速布局量子通信与计算",
+      "date": "2024-10-25",
+      "source": "证券时报",
+      "url": "https://www.stcn.com/",
+      "category": "商业合作",
+      "summary": "国盾量子发布公告，确认中国电信全资子公司中电信量子的投资入股方案已获国资委批复并完成过户。中国电信成为国盾量子控股股东，标志着量子技术正式进入‘央企国家队’规模化商用部署的新阶段。",
+      "aiInsight": "电信运营商的入局解决了量子技术‘落地难’的渠道痛点。预计未来‘量子密话’、‘量子云’将成为电信政企业务的标准配置，国盾量子的营收结构将从科研设备向运营服务转型。",
+      "signalType": "利好",
+      "importance": 9,
+      "subdivision": [
+        "量子通信",
+        "量子软件"
+      ],
+      "techRoute": [
+        "量子通信技术"
+      ],
+      "tags": [
+        "并购",
+        "国资",
+        "商业化"
+      ],
+      "entities": [
+        "国盾量子",
+        "中国电信",
+        "彭承志"
+      ],
+      "id": "news-046"
+    },
+    {
+      "title": "微软 Azure Quantum 与 Quantinuum 合作展示高可靠性逻辑量子比特",
+      "date": "2024-10-20",
+      "category": "技术动态",
+      "summary": "Microsoft Azure Quantum 与 Quantinuum 合作，在 H2 离子阱量子计算机上成功展示了具有纠错能力的逻辑量子比特。实验表明，其逻辑错误率比物理错误率低800倍，标志着向容错量子计算跨越的重要里程碑。",
+      "aiInsight": "微软的“混合计算”战略与其强大的软件纠错层相结合，正在重新定义量子计算进度表。证明了软件定义量子计算在提升硬件性能方面的价值。",
+      "subdivision": [
+        "量子硬件",
+        "量子软件"
+      ],
+      "techRoute": [
+        "离子阱量子比特",
+        "混合系统"
+      ],
+      "tags": [
+        "混合架构",
+        "逻辑量子比特"
+      ],
+      "entities": [
+        "Rajeeb Hazra",
+        "Microsoft",
+        "Microsoft Azure Quantum",
+        "Quantinuum"
+      ],
+      "id": "news-047",
+      "importance": 8,
+      "signalType": "利好"
+    },
+    {
+      "id": "news-048",
+      "title": "一家量子计算公司，创建5年，完成3轮近15亿美元融资，它是如何做到的？",
+      "date": "2024-10-10",
+      "source": "量子位",
+      "url": "https://mp.weixin.qq.com/s/k6qLUaIM-rFyaMBvy3FArw",
+      "category": "融资动态",
+      "tags": [
+        "Quantinuum",
+        "商业化",
+        "海外"
+      ],
+      "entities": [
+        "Quantinuum"
+      ],
+      "summary": "分析Quantinuum的成功路径。其成功关键在于硬件+行业软件协同，通过深度对接制药、金融等领域实现商业化落地。",
+      "aiInsight": "Quantinuum的案例揭示了量子计算商业化的关键路径：不是卖通用量子计算机，而是为特定行业提供量子计算+行业软件的整体解决方案。这种模式降低了客户使用门槛，同时建立了行业壁垒。对中国企业的启示是：单纯的硬件突破不足以支撑高估值，必须向下游应用延伸，形成技术+场景的闭环。",
+      "signalType": "利好",
+      "importance": 8,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-049",
+      "title": "QuiX Quantum推出Bia™量子云计算服务",
+      "date": "2024-09-17",
+      "source": "QuiX Quantum",
+      "url": "https://www.quixquantum.com/news",
+      "category": "工商动态",
+      "tags": [
+        "云服务",
+        "光子"
+      ],
+      "entities": [
+        "QuiX Quantum"
+      ],
+      "summary": "Launch of photonic quantum cloud service.",
+      "aiInsight": "Cloud access democratizes quantum, potential for subscription-based revenue models.",
+      "signalType": "利好",
+      "importance": 7,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "title": "微软联合Quantinuum实现12个高可靠逻辑量子比特",
+      "date": "2024-09-10",
+      "source": "Microsoft Azure Blog",
+      "url": "https://blogs.microsoft.com/quantum/",
+      "category": "技术动态",
+      "summary": "微软利用其独特的'量子比特虚拟化系统'，在Quantinuum的H2离子阱量子计算机上成功创建了12个高可靠性的逻辑量子比特，并展示了复杂的化学分子模拟。其逻辑错误率比物理错误率低800倍。",
+      "aiInsight": "软硬结合的典范。微软的软件栈优势加上离子阱的高保真度，证明了混合架构是通往容错计算的捷径。这也让离子阱路线在与超导路线的竞争中扳回一城。",
+      "signalType": "利好",
+      "importance": 8,
+      "subdivision": [
+        "量子软件",
+        "量子硬件"
+      ],
+      "techRoute": [
+        "离子阱",
+        "混合系统"
+      ],
+      "tags": [
+        "逻辑量子比特",
+        "混合架构"
+      ],
+      "entities": [
+        "Rajeeb Hazra",
+        "Microsoft",
+        "Quantinuum"
+      ],
+      "id": "news-050"
+    },
+    {
+      "id": "news-051",
+      "title": "2024年量子计算：突破、挑战与展望",
+      "date": "2024-09-05",
+      "source": "Microtime",
+      "url": "https://microtime.com/quantum-computing-in-2024-breakthroughs-challenges-and-what-lies-ahead",
+      "category": "技术动态",
+      "tags": [
+        "量子比特稳定性",
+        "量子霸权"
+      ],
+      "entities": [
+        "Microtime"
+      ],
+      "summary": "Advances in error correction, supremacy milestones, and hybrid systems.",
+      "aiInsight": "Breakthroughs indicate maturing tech, promising for investors in hybrid solutions.",
+      "signalType": "利好",
+      "importance": 8,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-052",
+      "title": "Top 10: Quantum Computing Companies",
+      "date": "2024-08-28",
+      "source": "Technology Magazine",
+      "url": "https://technologymagazine.com/top10/top-10-quantum-computing-companies",
+      "category": "工商动态",
+      "tags": [
+        "top 10"
+      ],
+      "entities": [
+        "D-Wave",
+        "Xanadu",
+        "Christian Weedbrook"
+      ],
+      "summary": "Top companies including D-Wave, Xanadu.",
+      "aiInsight": "Rankings guide portfolio selection.",
+      "signalType": "中性",
+      "importance": 7,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-053",
+      "title": "NIST发布首批3项后量子加密标准",
+      "date": "2024-08-13",
+      "source": "NIST",
+      "url": "https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards",
+      "category": "技术动态",
+      "tags": [
+        "加密",
+        "标准"
+      ],
+      "entities": [
+        "NIST"
+      ],
+      "summary": "NIST finalized encryption algorithms to withstand quantum attacks, ready for immediate use.",
+      "aiInsight": "Standards enhance security, creating investment opportunities in post-quantum cryptography firms.",
+      "signalType": "利好",
+      "importance": 8,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-054",
+      "title": "2024年量子计算更新",
+      "date": "2024-07-21",
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=tIJuyb5DWUw",
+      "category": "技术动态",
+      "tags": [
+        "发展",
+        "量子互联网"
+      ],
+      "entities": [
+        "McKinsey",
+        "Markets & Markets"
+      ],
+      "summary": "Updates on fault-tolerant hardware and Quantum Internet, with market projections from McKinsey and Markets & Markets.",
+      "aiInsight": "Advancements toward fault-tolerant systems suggest nearing investment maturity. Market forecasts indicate growth opportunities in infrastructure.",
+      "signalType": "利好",
+      "importance": 8,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-055",
+      "title": "量子计算：从炒作走向原型",
+      "date": "2024-07-16",
+      "source": "DARPA",
+      "url": "https://www.darpa.mil/news/2024/quantum-computing-prototype",
+      "category": "技术动态",
+      "tags": [
+        "基准测试",
+        "硬件"
+      ],
+      "entities": [
+        "DARPA"
+      ],
+      "summary": "DARPA's Quantum Benchmarking Initiative aims to validate quantum hardware progress and build useful quantum computers faster.",
+      "aiInsight": "Government initiatives like QBI could accelerate adoption, providing funding stability and validation for investors.",
+      "signalType": "利好",
+      "importance": 8,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-056",
+      "title": "教授取得量子计算重大突破",
+      "date": "2024-07-12",
+      "source": "Northeastern Global News",
+      "url": "https://news.northeastern.edu/2024/07/12/quantum-computing-breakthrough-manufacturing",
+      "category": "技术动态",
+      "tags": [
+        "转换器",
+        "室温"
+      ],
+      "entities": [
+        "Yoseob Yoon"
+      ],
+      "summary": "Discovery of atomically thin transducers could enable quantum computing at room temperature.",
+      "aiInsight": "Room-temperature quantum tech could lower barriers, expanding market accessibility and investment appeal.",
+      "signalType": "利好",
+      "importance": 9,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-057",
+      "title": "2024年量子计算：AI、创新与研究趋势",
+      "date": "2024-07-11",
+      "source": "FirstIgnite",
+      "url": "https://firstignite.com/exploring-the-latest-quantum-computing-advancements-in-2024",
+      "category": "技术动态",
+      "tags": [
+        "AI作用",
+        "创新"
+      ],
+      "entities": [
+        "FirstIgnite"
+      ],
+      "summary": "Trends include supremacy efforts, qubit improvements, AI integration.",
+      "aiInsight": "AI-quantum synergy offers cross-sector investment opportunities.",
+      "signalType": "利好",
+      "importance": 8,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-058",
+      "title": "IBM明确容错量子计算路线图",
+      "date": "2024-06-01",
+      "source": "IBM",
+      "url": "https://www.ibm.com/quantum/blog/large-scale-ftqc",
+      "category": "技术动态",
+      "tags": [
+        "容错",
+        "路线图"
+      ],
+      "entities": [
+        "IBM"
+      ],
+      "summary": "IBM's qLDPC codes and decoder for efficient error correction.",
+      "aiInsight": "IBM的qLDPC码和解码器为高效纠错提供了清晰路径，增强了IBM在量子投资领域的吸引力。明确的技术路线图降低了投资不确定性。",
+      "signalType": "利好",
+      "importance": 9,
+      "subdivision": [
+        "量子纠错"
+      ]
+    },
+    {
+      "id": "news-059",
+      "title": "硅量子计算展示高保真核自旋初始化",
+      "date": "2024-05-07",
+      "source": "Silicon Quantum Computing",
+      "url": "https://www.sqc.com.au/news",
+      "category": "技术动态",
+      "tags": [
+        "核自旋",
+        "4量子比特"
+      ],
+      "entities": [
+        "Silicon Quantum Computing"
+      ],
+      "summary": "Demonstrated high-fidelity nuclear spin initialization in 4-qubit device.",
+      "aiInsight": "Advances in silicon qubits could lead to scalable manufacturing investments.",
+      "signalType": "利好",
+      "importance": 8,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-060",
+      "title": "量子计算新闻简报：2024年1月大事件与突破",
+      "date": "2024-01-01",
+      "source": "StartUs Insights",
+      "url": "https://www.startus-insights.com/innovators-guide/quantum-computing-news-brief",
+      "category": "新闻动态",
+      "tags": [
+        "事件",
+        "投资"
+      ],
+      "entities": [
+        "StartUs Insights"
+      ],
+      "summary": "Brief on developments, investments, and events in January 2024.",
+      "aiInsight": "Early 2024 trends indicate continued investment momentum.",
+      "signalType": "利好",
+      "importance": 6,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-061",
+      "title": "The Quantum Race: 4 Companies Competing for the Future",
+      "date": "2024-01-01",
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=dre10RefjWM",
+      "category": "工商动态",
+      "tags": [
+        "competition"
+      ],
+      "entities": [
+        "D-Wave",
+        "Rigetti"
+      ],
+      "summary": "D-Wave, Rigetti, IonQ leading pure plays.",
+      "aiInsight": "Competitive landscape for targeted investments.",
+      "signalType": "中性",
+      "importance": 7,
+      "subdivision": [
+        "量子硬件"
+      ]
+    }
+  ]
+}

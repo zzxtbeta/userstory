@@ -1,0 +1,865 @@
+{
+  "companies": [
+    {
+      "id": "company-001",
+      "name": "IBM",
+      "fullName": "International Business Machines Corporation",
+      "location": "美国纽约州阿蒙克",
+      "founded": "1911",
+      "valuation": "高（上市公司）",
+      "stage": "成熟期",
+      "description": "IBM是全球量子计算领导者，采用超导技术，通过IBM Quantum Experience提供云访问，并在纠错领域取得进展。",
+      "tags": [
+        "超导量子",
+        "量子云服务"
+      ],
+      "keyPeople": [
+        "Arvind Krishna"
+      ],
+      "latestRound": "N/A（上市公司）",
+      "investors": [
+        "公众股东"
+      ],
+      "techRoute": "超导量子比特",
+      "subdivision": [
+        "量子硬件",
+        "量子软件"
+      ]
+    },
+    {
+      "id": "company-002",
+      "name": "Google Quantum AI",
+      "fullName": "Google Quantum AI",
+      "location": "美国加州山景城",
+      "founded": "2013",
+      "valuation": "Alphabet旗下",
+      "stage": "研发阶段",
+      "description": "Google量子部门专注于超导量子比特，实现了Willow芯片等纠错里程碑。",
+      "tags": [
+        "超导量子",
+        "纠错技术"
+      ],
+      "keyPeople": [
+        "Hartmut Neven"
+      ],
+      "latestRound": "内部融资",
+      "investors": [
+        "Alphabet"
+      ],
+      "techRoute": "超导量子比特",
+      "subdivision": [
+        "量子纠错",
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "company-003",
+      "name": "Microsoft Azure Quantum",
+      "fullName": "Microsoft Corporation",
+      "location": "美国华盛顿州雷德蒙德",
+      "founded": "2019",
+      "valuation": "高（上市公司）",
+      "stage": "商业化",
+      "description": "Microsoft平台提供混合量子-经典解决方案，与Atom Computing合作实现24个逻辑量子比特。",
+      "tags": [
+        "混合系统",
+        "拓扑量子"
+      ],
+      "keyPeople": [
+        "Satya Nadella"
+      ],
+      "latestRound": "N/A（上市公司）",
+      "investors": [
+        "公众股东"
+      ],
+      "techRoute": "拓扑量子比特",
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "company-004",
+      "name": "Amazon Braket",
+      "fullName": "Amazon Web Services",
+      "location": "美国华盛顿州西雅图",
+      "founded": "2019",
+      "valuation": "Amazon旗下",
+      "stage": "商业化",
+      "description": "AWS提供云访问，连接D-Wave、IonQ、Rigetti等合作伙伴的量子硬件。",
+      "tags": [
+        "量子云服务",
+        "多供应商"
+      ],
+      "keyPeople": [
+        "Andy Jassy"
+      ],
+      "latestRound": "内部融资",
+      "investors": [
+        "Amazon"
+      ],
+      "techRoute": "多种技术路线（基于合作伙伴）",
+      "subdivision": [
+        "量子软件"
+      ]
+    },
+    {
+      "id": "company-005",
+      "name": "D-Wave Quantum",
+      "fullName": "D-Wave Quantum Inc.",
+      "location": "加拿大本拿比",
+      "founded": "1999",
+      "valuation": "101亿美元市值",
+      "stage": "上市公司",
+      "description": "量子退火技术先驱，提供超过5000个量子比特用于优化问题。",
+      "tags": [
+        "量子退火",
+        "优化问题"
+      ],
+      "keyPeople": [
+        "Alan Baratz"
+      ],
+      "latestRound": "已上市",
+      "investors": [
+        "公众股东"
+      ],
+      "techRoute": "量子退火",
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "company-006",
+      "name": "Rigetti Computing",
+      "fullName": "Rigetti Computing, Inc.",
+      "location": "美国加州伯克利",
+      "founded": "2013",
+      "valuation": "81亿美元市值（2025年数据）",
+      "stage": "上市公司（NASDAQ:RGTI）",
+      "description": "开发超导量子处理器，专注于混合系统。拥有专用量子芯片制造工厂（Fab-1），致力于开发模块化量子芯片。",
+      "tags": [
+        "超导量子",
+        "混合系统",
+        "模块化芯片"
+      ],
+      "keyPeople": [
+        "Subodh Kulkarni",
+        "Chad Rigetti"
+      ],
+      "latestRound": "已上市",
+      "investors": [
+        "公众股东"
+      ],
+      "techRoute": "超导量子比特",
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "company-007",
+      "name": "IonQ",
+      "fullName": "IonQ Inc.",
+      "location": "美国马里兰州大学公园",
+      "founded": "2015",
+      "valuation": "173亿美元市值",
+      "stage": "上市公司",
+      "description": "离子阱技术领导者，提供基于云的量子计算服务。",
+      "tags": [
+        "离子阱",
+        "量子云服务"
+      ],
+      "keyPeople": [
+        "Peter Chapman"
+      ],
+      "latestRound": "已上市",
+      "investors": [
+        "公众股东"
+      ],
+      "techRoute": "离子阱量子比特",
+      "subdivision": [
+        "量子硬件",
+        "量子软件"
+      ]
+    },
+    {
+      "id": "company-008",
+      "name": "Quantinuum",
+      "fullName": "Quantinuum",
+      "location": "美国科罗拉多州布鲁姆菲尔德",
+      "founded": "2021",
+      "valuation": "50亿美元",
+      "stage": "成长期",
+      "description": "Honeywell Quantum和Cambridge Quantum合并而成，专注于离子阱量子比特。",
+      "tags": [
+        "离子阱",
+        "量子软件"
+      ],
+      "keyPeople": [
+        "Rajeeb Hazra"
+      ],
+      "latestRound": "3亿美元股权融资",
+      "investors": [
+        "Honeywell",
+        "摩根大通"
+      ],
+      "techRoute": "离子阱量子比特",
+      "subdivision": [
+        "量子硬件",
+        "量子软件"
+      ]
+    },
+    {
+      "id": "company-009",
+      "name": "Xanadu",
+      "fullName": "Xanadu Quantum Technologies",
+      "location": "加拿大多伦多",
+      "founded": "2016",
+      "valuation": "未公开",
+      "stage": "成长期",
+      "description": "开发光量子计算机和PennyLane等软件。",
+      "tags": [
+        "光量子",
+        "量子机器学习"
+      ],
+      "keyPeople": [
+        "Christian Weedbrook"
+      ],
+      "latestRound": "C轮",
+      "investors": [
+        "多家VC"
+      ],
+      "techRoute": "光量子比特",
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "company-010",
+      "name": "PsiQuantum",
+      "fullName": "PsiQuantum Corp.",
+      "location": "美国加州帕洛阿尔托",
+      "founded": "2016",
+      "valuation": "70亿美元",
+      "stage": "后期融资",
+      "description": "全球量子计算独角兽，采用光量子技术路线，目标直接建造百万量子比特规模的容错通用量子计算机。与英伟达战略合作，利用传统半导体供应链（格芯）制造芯片。",
+      "tags": [
+        "光量子",
+        "容错计算",
+        "半导体制造"
+      ],
+      "keyPeople": [
+        "Jeremy O'Brien"
+      ],
+      "latestRound": "10亿美元战略融资",
+      "investors": [
+        "贝莱德",
+        "淡马锡",
+        "Baillie Gifford",
+        "英伟达",
+        "卡塔尔投资局"
+      ],
+      "techRoute": "光量子（基于半导体制造）",
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "company-011",
+      "name": "QuEra Computing",
+      "fullName": "QuEra Computing",
+      "location": "美国马萨诸塞州波士顿",
+      "founded": "2018",
+      "valuation": "未公开",
+      "stage": "成长期",
+      "description": "中性原子量子计算，与学术界有紧密联系。",
+      "tags": [
+        "中性原子",
+        "学术合作"
+      ],
+      "keyPeople": [
+        "Alex Keesling"
+      ],
+      "latestRound": "A轮",
+      "investors": [
+        "多家投资方"
+      ],
+      "techRoute": "中性原子量子比特",
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "company-012",
+      "name": "Alice & Bob",
+      "fullName": "Alice & Bob",
+      "location": "法国巴黎",
+      "founded": "2020",
+      "valuation": "未公开",
+      "stage": "早期",
+      "description": "开发猫量子比特，用于抗错误量子计算机。",
+      "tags": [
+        "猫量子比特",
+        "纠错技术"
+      ],
+      "keyPeople": [
+        "Théau Peronnin"
+      ],
+      "latestRound": "A轮",
+      "investors": [
+        "多家投资方"
+      ],
+      "techRoute": "猫量子比特",
+      "subdivision": [
+        "量子纠错",
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "company-013",
+      "name": "Pasqal",
+      "fullName": "Pasqal",
+      "location": "法国巴黎",
+      "founded": "2019",
+      "valuation": "未公开",
+      "stage": "成长期",
+      "description": "中性原子量子处理器，用于优化和模拟。",
+      "tags": [
+        "中性原子",
+        "优化问题"
+      ],
+      "keyPeople": [
+        "Georges-Olivier Reymond"
+      ],
+      "latestRound": "1亿欧元B轮",
+      "investors": [
+        "多家投资方"
+      ],
+      "techRoute": "中性原子量子比特",
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "company-014",
+      "name": "IQM Quantum Computers",
+      "fullName": "IQM Quantum Computers",
+      "location": "芬兰埃斯波",
+      "founded": "2018",
+      "valuation": "未公开",
+      "stage": "成长期",
+      "description": "超导量子计算机，用于高性能计算集成。",
+      "tags": [
+        "超导量子",
+        "高性能计算"
+      ],
+      "keyPeople": [
+        "Jan Goetz"
+      ],
+      "latestRound": "A轮",
+      "investors": [
+        "多家投资方"
+      ],
+      "techRoute": "超导量子比特",
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "company-015",
+      "name": "QuiX Quantum",
+      "fullName": "QuiX Quantum",
+      "location": "荷兰恩斯赫德",
+      "founded": "2019",
+      "valuation": "未公开",
+      "stage": "早期",
+      "description": "光量子处理器，用于通用计算。",
+      "tags": [
+        "光量子",
+        "通用计算"
+      ],
+      "keyPeople": [
+        "Jelmer Renema"
+      ],
+      "latestRound": "1500万欧元A轮",
+      "investors": [
+        "Invest-NL",
+        "EIC Fund"
+      ],
+      "techRoute": "光量子比特",
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "company-016",
+      "name": "Quantum Brilliance",
+      "fullName": "Quantum Brilliance",
+      "location": "澳大利亚堪培拉",
+      "founded": "2019",
+      "valuation": "未公开",
+      "stage": "成长期",
+      "description": "基于金刚石的室温量子计算机。",
+      "tags": [
+        "金刚石量子比特",
+        "室温运行"
+      ],
+      "keyPeople": [
+        "Mark Luo"
+      ],
+      "latestRound": "A轮",
+      "investors": [
+        "多家投资方"
+      ],
+      "techRoute": "金刚石NV色心",
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "company-017",
+      "name": "Oxford Quantum Circuits",
+      "fullName": "Oxford Quantum Circuits",
+      "location": "英国牛津",
+      "founded": "2017",
+      "valuation": "未公开",
+      "stage": "成长期",
+      "description": "超导电路，采用同轴技术。",
+      "tags": [
+        "超导量子",
+        "同轴技术"
+      ],
+      "keyPeople": [
+        "Ilana Wisby"
+      ],
+      "latestRound": "1亿美元B轮",
+      "investors": [
+        "SBI Investment"
+      ],
+      "techRoute": "超导量子比特",
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "company-018",
+      "name": "Nord Quantique",
+      "fullName": "Nord Quantique",
+      "location": "加拿大舍布鲁克",
+      "founded": "2020",
+      "valuation": "未公开",
+      "stage": "早期",
+      "description": "玻色子编码，用于量子比特级纠错。",
+      "tags": [
+        "玻色子编码",
+        "纠错技术"
+      ],
+      "keyPeople": [
+        "Julien Camirand Lemyre"
+      ],
+      "latestRound": "种子轮",
+      "investors": [
+        "多家投资方"
+      ],
+      "techRoute": "玻色子量子比特",
+      "subdivision": [
+        "量子纠错",
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "company-019",
+      "name": "Riverlane",
+      "fullName": "Riverlane",
+      "location": "英国剑桥",
+      "founded": "2016",
+      "valuation": "未公开",
+      "stage": "成长期",
+      "description": "专注于量子纠错技术的领先企业，开发量子纠错解码器和软件栈，是2024年唯一完成C轮融资的量子计算公司。",
+      "tags": [
+        "量子纠错",
+        "纠错解码器",
+        "量子软件"
+      ],
+      "keyPeople": [
+        "Steve Brierley"
+      ],
+      "latestRound": "7500万美元C轮",
+      "investors": [
+        "多家投资方"
+      ],
+      "techRoute": "量子纠错技术",
+      "subdivision": [
+        "量子纠错"
+      ]
+    },
+    {
+      "id": "company-020",
+      "name": "BlueQubit",
+      "fullName": "BlueQubit",
+      "location": "美国",
+      "founded": "未公开",
+      "valuation": "未公开",
+      "stage": "早期",
+      "description": "基于云的量子平台，用于工作流和分析。",
+      "tags": [
+        "量子云服务",
+        "量子算法"
+      ],
+      "keyPeople": [
+        "未公开"
+      ],
+      "latestRound": "未公开",
+      "investors": [
+        "未公开"
+      ],
+      "techRoute": "软件平台",
+      "subdivision": [
+        "量子软件"
+      ]
+    },
+    {
+      "id": "company-021",
+      "name": "玻色量子",
+      "fullName": "北京玻色量子科技有限公司",
+      "location": "中国北京",
+      "founded": "2020",
+      "valuation": "未公开（数亿元融资后）",
+      "stage": "A++轮",
+      "description": "国内实用化光量子计算代表企业，专注于专用相干光量子计算机的研发与产业化，并布局通用光量子计算。在'量子计算+AI'与生物医药交叉应用领域取得进展。",
+      "tags": [
+        "光量子计算",
+        "专用量子计算机",
+        "AI融合",
+        "生物医药"
+      ],
+      "keyPeople": [
+        "文凯",
+        "马寅"
+      ],
+      "latestRound": "A++轮（数亿元人民币）",
+      "investors": [
+        "华德科创",
+        "南山战新投",
+        "广发信德",
+        "湖南财信产业基金",
+        "纬德信息",
+        "啟赋资本"
+      ],
+      "techRoute": "光量子（相干光量子计算）",
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "company-022",
+      "name": "图灵量子",
+      "fullName": "上海图灵量子科技有限公司",
+      "location": "中国上海",
+      "founded": "2021",
+      "valuation": "未公开（亿元级融资）",
+      "stage": "战略轮",
+      "description": "国内光量子计算领军企业，致力于光量子芯片、专用光量子计算机及全栈软硬件产品的研发与产业化。坚持全链条自主可控，拥有自研芯片和量子算法能力。",
+      "tags": [
+        "光量子芯片",
+        "全栈自主",
+        "量子算法",
+        "光子处理器"
+      ],
+      "keyPeople": [
+        "金贤敏"
+      ],
+      "latestRound": "战略轮（亿元人民币）",
+      "investors": [
+        "盛世投资"
+      ],
+      "techRoute": "光量子（集成光量子计算）",
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "company-023",
+      "name": "熵函数",
+      "fullName": "熵函数（深圳）科技有限公司",
+      "location": "中国深圳",
+      "founded": "2020",
+      "valuation": "未公开",
+      "stage": "早期",
+      "description": "专注于量子多体经典模拟的创业公司，通过AI驱动的'数字人蜂群'系统调度优化GPU算力，为科研机构和企业提供高效、高精度的量子模拟解决方案，推动国产替代。",
+      "tags": [
+        "量子经典模拟",
+        "AI调度",
+        "GPU算力",
+        "国产替代"
+      ],
+      "keyPeople": [
+        "马国强"
+      ],
+      "latestRound": "未公开",
+      "investors": [
+        "未公开"
+      ],
+      "techRoute": "量子软件/算法（经典模拟）",
+      "subdivision": [
+        "量子软件"
+      ]
+    },
+    {
+      "name": "本源量子",
+      "fullName": "本源量子计算科技（合肥）股份有限公司",
+      "location": "合肥",
+      "founded": "2017",
+      "valuation": "约120亿元人民币",
+      "stage": "Pre-IPO",
+      "description": "中国第一家量子计算公司，具备量子芯片、量子测控、量子软件及云平台的全栈研发能力。发布了“悟源”超导量子计算机和“本源司南”操作系统。",
+      "subdivision": [
+        "量子硬件",
+        "量子软件"
+      ],
+      "techRoute": "超导量子比特",
+      "tags": [
+        "超导量子",
+        "中国首家",
+        "独角兽",
+        "全栈技术"
+      ],
+      "keyPeople": [
+        "郭国平",
+        "张辉"
+      ],
+      "latestRound": "B轮",
+      "investors": [
+        "深创投",
+        "中网投",
+        "中信证券"
+      ],
+      "id": "company-024"
+    },
+    {
+      "name": "国盾量子",
+      "fullName": "科大国盾量子技术股份有限公司",
+      "location": "合肥",
+      "founded": "2009",
+      "valuation": "约240亿元人民币 (市值)",
+      "stage": "上市公司",
+      "description": "中国量子通信领域的领军企业，主要从事量子保密通信产品的研发、生产、销售及技术服务，是国家“量子通信京沪干线”的主要承建方。",
+      "subdivision": [
+        "量子通信"
+      ],
+      "techRoute": "量子通信技术",
+      "tags": [
+        "量子通信",
+        "科创板",
+        "国资背景"
+      ],
+      "keyPeople": [
+        "彭承志",
+        "赵勇"
+      ],
+      "latestRound": "已上市",
+      "investors": [
+        "中科院",
+        "中国电信"
+      ],
+      "id": "company-025"
+    },
+    {
+      "name": "国仪量子",
+      "fullName": "国仪量子技术（合肥）股份有限公司",
+      "location": "合肥",
+      "founded": "2016",
+      "valuation": "约60-80亿元人民币",
+      "stage": "Pre-IPO",
+      "description": "源于中国科学技术大学实验室，专注于量子精密测量技术，开发并商用化了多款高端科学仪器（如电子顺磁共振波谱仪）。",
+      "subdivision": [
+        "量子传感"
+      ],
+      "techRoute": "中性原子量子比特",
+      "tags": [
+        "量子传感",
+        "科学仪器",
+        "独角兽"
+      ],
+      "keyPeople": [
+        "贺羽",
+        "杜江峰"
+      ],
+      "latestRound": "C轮",
+      "investors": [
+        "高瓴创投",
+        "科大讯飞",
+        "中科院资本"
+      ],
+      "id": "company-026"
+    },
+    {
+      "name": "启科量子",
+      "fullName": "启科量子技术（北京）有限公司",
+      "location": "北京",
+      "founded": "2019",
+      "valuation": "约30亿元人民币",
+      "stage": "B轮",
+      "description": "致力于全栈量子计算与量子通信设备研发，国内首家专注于离子阱技术路线的量子计算公司，兼顾量子通信网络设备。",
+      "subdivision": [
+        "量子硬件",
+        "量子通信"
+      ],
+      "techRoute": "离子阱量子比特",
+      "tags": [
+        "离子阱",
+        "量子通信",
+        "分布式量子计算"
+      ],
+      "keyPeople": [
+        "陈杨",
+        "罗乐"
+      ],
+      "latestRound": "Pre-B轮",
+      "investors": [
+        "中关村发展前沿基金",
+        "力合科创"
+      ],
+      "id": "company-027"
+    },
+    {
+      "name": "华翊量子",
+      "fullName": "华翊量子（北京）信息科技有限公司",
+      "location": "北京",
+      "founded": "2022",
+      "valuation": "数亿元人民币",
+      "stage": "A轮",
+      "description": "由清华大学量子信息中心段路明教授团队孵化，专注于高维离子阱量子计算技术的研发与产业化。",
+      "subdivision": [
+        "量子硬件"
+      ],
+      "techRoute": "离子阱量子比特",
+      "tags": [
+        "离子阱",
+        "清华系",
+        "学术孵化"
+      ],
+      "keyPeople": [
+        "姚麟",
+        "段路明"
+      ],
+      "latestRound": "A轮",
+      "investors": [
+        "红杉中国",
+        "高榕资本",
+        "奥博资本"
+      ],
+      "id": "company-028"
+    },
+    {
+      "name": "北京量子信息科学研究院",
+      "fullName": "北京量子信息科学研究院",
+      "location": "北京",
+      "founded": "2017",
+      "valuation": "N/A（研究机构）",
+      "stage": "研究机构",
+      "description": "由北京市政府联合中科院、清华、北大等共建的新型研发机构，是中国量子科技的国家战略科技力量。薛其坤院士任院长，汇聚了国内顶尖量子科学家。",
+      "subdivision": ["量子硬件", "量子通信", "量子软件"],
+      "techRoute": "多技术路线（超导、离子阱、光量子等）",
+      "tags": ["国家战略", "新型研发机构", "顶尖人才"],
+      "keyPeople": ["薛其坤", "常凯", "范桁"],
+      "latestRound": "N/A",
+      "investors": ["北京市政府", "中科院"],
+      "id": "company-029"
+    },
+    {
+      "name": "清华大学量子信息中心",
+      "fullName": "清华大学交叉信息研究院量子信息中心",
+      "location": "北京",
+      "founded": "2011",
+      "valuation": "N/A（研究机构）",
+      "stage": "研究机构",
+      "description": "依托清华大学交叉信息研究院，由姚期智院士创建。段路明教授领导的离子阱量子计算团队是国内该领域的领军力量，孵化了华翊量子等创业公司。",
+      "subdivision": ["量子硬件", "量子软件"],
+      "techRoute": "离子阱量子比特",
+      "tags": ["清华系", "离子阱", "学术孵化"],
+      "keyPeople": ["段路明", "姚麟", "姚期智"],
+      "latestRound": "N/A",
+      "investors": ["清华大学"],
+      "id": "company-030"
+    },
+    {
+      "name": "中国科学技术大学量子信息实验室",
+      "fullName": "中国科学技术大学中科院量子信息重点实验室",
+      "location": "合肥",
+      "founded": "2001",
+      "valuation": "N/A（研究机构）",
+      "stage": "研究机构",
+      "description": "中国量子科技的摇篮，潘建伟、郭光灿、杜江峰三位院士领衔。在量子通信、超导量子计算、光量子计算、量子传感等领域均处于国际领先水平。孵化了本源量子、国盾量子、国仪量子等企业。",
+      "subdivision": ["量子硬件", "量子通信", "量子传感"],
+      "techRoute": "多技术路线（超导、光量子、离子阱）",
+      "tags": ["中科大系", "院士团队", "产学研一体"],
+      "keyPeople": ["潘建伟", "郭光灿", "杜江峰", "陆朝阳", "郭国平"],
+      "latestRound": "N/A",
+      "investors": ["中科院", "国家自然科学基金"],
+      "id": "company-031"
+    },
+    {
+      "name": "南方科技大学量子科学与工程研究院",
+      "fullName": "南方科技大学量子科学与工程研究院",
+      "location": "深圳",
+      "founded": "2018",
+      "valuation": "N/A（研究机构）",
+      "stage": "研究机构",
+      "description": "由俞大鹏院士创建并担任创院院长，是深圳量子科技的核心力量。专注于量子材料、超导量子计算、量子传感等方向，与深圳国际量子研究院协同发展。",
+      "subdivision": ["量子硬件", "量子传感"],
+      "techRoute": "超导量子比特、量子材料",
+      "tags": ["南科大系", "深圳", "量子材料"],
+      "keyPeople": ["俞大鹏"],
+      "latestRound": "N/A",
+      "investors": ["南方科技大学", "深圳市政府"],
+      "id": "company-032"
+    },
+    {
+      "name": "浙江大学超导量子计算实验室",
+      "fullName": "浙江大学物理学院超导量子计算实验室",
+      "location": "杭州",
+      "founded": "2015",
+      "valuation": "N/A（研究机构）",
+      "stage": "研究机构",
+      "description": "由王浩华教授领导，是国内超导量子计算的重要研究力量。与阿里巴巴达摩院有深度合作，在超导量子比特相干性和可扩展性方面取得重要进展。",
+      "subdivision": ["量子硬件"],
+      "techRoute": "超导量子比特",
+      "tags": ["浙大系", "超导量子", "产学研合作"],
+      "keyPeople": ["王浩华", "宋超"],
+      "latestRound": "N/A",
+      "investors": ["浙江大学", "阿里巴巴"],
+      "id": "company-033"
+    },
+    {
+      "name": "深圳国际量子研究院",
+      "fullName": "深圳国际量子研究院",
+      "location": "深圳",
+      "founded": "2020",
+      "valuation": "N/A（研究机构）",
+      "stage": "研究机构",
+      "description": "由俞大鹏院士担任院长，是深圳市重点建设的量子科技研发机构。致力于量子计算、量子通信、量子传感等前沿技术研究，推动粤港澳大湾区量子科技发展。",
+      "subdivision": ["量子硬件", "量子通信", "量子传感"],
+      "techRoute": "多技术路线",
+      "tags": ["深圳", "大湾区", "国际合作"],
+      "keyPeople": ["俞大鹏"],
+      "latestRound": "N/A",
+      "investors": ["深圳市政府"],
+      "id": "company-034"
+    },
+    {
+      "name": "上海交通大学光子集成与量子信息实验室",
+      "fullName": "上海交通大学物理与天文学院光子集成与量子信息实验室",
+      "location": "上海",
+      "founded": "2012",
+      "valuation": "N/A（研究机构）",
+      "stage": "研究机构",
+      "description": "由金贤敏教授创建，是国内光量子芯片研究的重要力量。在集成光量子计算、光量子芯片等领域取得重要进展，孵化了图灵量子。",
+      "subdivision": ["量子硬件"],
+      "techRoute": "光量子比特",
+      "tags": ["上交系", "光量子芯片", "学术孵化"],
+      "keyPeople": ["金贤敏"],
+      "latestRound": "N/A",
+      "investors": ["上海交通大学"],
+      "id": "company-035"
+    }
+  ]
+}

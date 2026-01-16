@@ -1427,5 +1427,237 @@
         "量子硬件"
       ]
     }
+        ,
+    {
+      "id": "news-062",
+      "title": "中科大实现51比特量子纠缠态制备，刷新世界纪录",
+      "date": "2023-07-12",
+      "source": "中国科大新闻网",
+      "url": "https://news.ustc.edu.cn/info/1001/83998.htm",
+      "category": "技术动态",
+      "tags": [
+        "量子纠缠",
+        "世界纪录",
+        "祖冲之二号"
+      ],
+      "entities": [
+        "潘建伟",
+        "朱晓波",
+        "彭承志",
+        "袁骁",
+        "中国科学技术大学"
+      ],
+      "summary": "中国科大潘建伟、朱晓波、彭承志团队与北大袁骁合作，在'祖冲之二号'超导量子计算原型机上成功实现51个超导量子比特簇态制备和验证，将真纠缠比特数目从24个突破至51个，刷新世界纪录。研究成果发表在《自然》杂志。",
+      "aiInsight": "这是超导量子计算领域的重大突破，充分展示了中国在超导量子计算体系的可扩展性优势。51比特真纠缠态的实现标志着中国在多体量子纠缠研究方面处于国际领先地位，为大规模量子算法实现和基于测量的量子计算奠定了坚实基础。",
+      "signalType": "利好",
+      "importance": 10,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-063",
+      "title": "QuEra Computing完成2.3亿美元B轮融资，英伟达参投",
+      "date": "2025-09-09",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/quera-expands-230-million-financing-round-advancing-quantum-accelerated-supercomputing-302550112.html",
+      "category": "融资动态",
+      "tags": [
+        "B轮融资",
+        "中性原子",
+        "英伟达"
+      ],
+      "entities": [
+        "QuEra Computing",
+        "NVentures",
+        "NVIDIA"
+      ],
+      "summary": "中性原子量子计算公司QuEra Computing宣布英伟达旗下风投NVentures参与其2.3亿美元B轮融资。该轮融资最初于2025年2月宣布，此次扩大融资将用于推进量子加速超级计算的发展。",
+      "aiInsight": "英伟达的战略投资凸显了中性原子技术路线在量子计算领域的崛起。QuEra与英伟达、AWS等巨头的合作，为其提供了世界顶级的计算环境，加速了大规模纠错量子系统的开发进程。中性原子路线正在成为超导和离子阱之外的重要技术选择。",
+      "signalType": "利好",
+      "importance": 9,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-064",
+      "title": "Quantinuum完成6亿美元融资，估值达100亿美元",
+      "date": "2025-09-04",
+      "source": "Honeywell",
+      "url": "https://investor.honeywell.com/news-releases/news-release-details/honeywell-announces-600-million-capital-raise-quantinuum-10b-pre",
+      "category": "融资动态",
+      "tags": [
+        "融资",
+        "估值",
+        "离子阱",
+        "英伟达"
+      ],
+      "entities": [
+        "Quantinuum",
+        "Honeywell",
+        "NVIDIA",
+        "Rajeeb Hazra"
+      ],
+      "summary": "霍尼韦尔宣布旗下量子计算公司Quantinuum完成约6亿美元股权融资，融资前估值达100亿美元。本轮融资由英伟达风投NVentures、广达电脑、QED Investors等参与。这是继2024年初3亿美元融资后，Quantinuum估值翻倍。",
+      "aiInsight": "Quantinuum的估值飙升至100亿美元，标志着离子阱技术路线获得资本市场的高度认可。作为全栈量子计算解决方案提供商，Quantinuum在硬件性能、软件生态和行业应用方面的全面布局，使其成为量子计算商业化的标杆企业。英伟达的连续加注显示出量子-AI融合的战略价值。",
+      "signalType": "利好",
+      "importance": 10,
+      "subdivision": [
+        "量子硬件",
+        "量子软件"
+      ]
+    },
+    {
+      "id": "news-065",
+      "title": "IonQ Q3财报：营收1220万美元，获16亿美元融资",
+      "date": "2025-11-06",
+      "source": "IonQ",
+      "url": "https://ionq.com/news/ionq-announces-third-quarter-2025-financial-results",
+      "category": "融资动态",
+      "tags": [
+        "财报",
+        "融资",
+        "离子阱",
+        "并购"
+      ],
+      "entities": [
+        "IonQ",
+        "Peter Chapman"
+      ],
+      "summary": "IonQ公布2025年第三季度财报，营收1220万美元。公司完成20亿美元股权融资，现金储备达35亿美元。同时宣布完成对Oxford Ionics的收购，并签署收购Vector Atomic的协议，拓展量子传感和定位导航授时（PNT）能力。实现世界纪录的99.99%双量子比特门保真度。",
+      "aiInsight": "IonQ的充裕现金储备和激进的并购策略显示其正在从单一量子计算硬件厂商向量子技术平台转型。99.99%的门保真度突破和2030年200万物理量子比特、8万逻辑量子比特的路线图，展现了离子阱技术在高保真度方面的独特优势。收购Oxford Ionics和Vector Atomic将增强其技术护城河。",
+      "signalType": "利好",
+      "importance": 9,
+      "subdivision": [
+        "量子硬件",
+        "量子传感"
+      ]
+    },
+    {
+      "id": "news-066",
+      "title": "Google Willow芯片实现量子纠错历史性突破",
+      "date": "2024-12-09",
+      "source": "Google Blog",
+      "url": "https://blog.google/technology/research/google-quantum-ai-willow-chip/",
+      "category": "技术动态",
+      "tags": [
+        "量子纠错",
+        "Willow",
+        "超导量子",
+        "里程碑"
+      ],
+      "entities": [
+        "Google",
+        "Hartmut Neven",
+        "Google Quantum AI"
+      ],
+      "summary": "Google发布105量子比特的Willow超导量子芯片，首次实现'低于阈值'的量子纠错。实验证明，随着量子比特数量增加，错误率呈指数级下降而非上升，突破了量子计算30年来的核心挑战。Willow在5分钟内完成的计算，当今最快超级计算机需要10的25次方年。",
+      "aiInsight": "这是量子计算历史上的分水岭时刻。Willow芯片证明了量子纠错的可扩展性，意味着通往容错量子计算的道路已经打通。Google在超导路线上的领先优势进一步扩大，将对IBM、Rigetti等竞争对手形成巨大压力。这一突破将加速量子计算从NISQ时代向容错时代的过渡，商业化进程有望大幅提前。",
+      "signalType": "利好",
+      "importance": 10,
+      "subdivision": [
+        "量子硬件",
+        "量子纠错"
+      ]
+    },
+    {
+      "id": "news-067",
+      "title": "Rigetti获美国空军580万美元合同，开发超导量子网络",
+      "date": "2025-08-15",
+      "source": "Finviz",
+      "url": "https://finviz.com/news/170612/ionq-rigetti-computing-and-d-wave-quantum",
+      "category": "商业合作",
+      "tags": [
+        "政府合同",
+        "量子网络",
+        "超导量子"
+      ],
+      "entities": [
+        "Rigetti Computing",
+        "美国空军研究实验室"
+      ],
+      "summary": "Rigetti Computing获得美国空军研究实验室（AFRL）580万美元合同，用于推进超导量子网络技术。该项目将开发连接超导量子处理器与光子的技术，这是构建可扩展量子网络的关键模块。",
+      "aiInsight": "美国军方的持续投入显示量子计算已上升为国家战略科技。Rigetti在超导量子网络方向的布局，与其模块化芯片架构形成协同，有望在分布式量子计算领域占据先机。政府合同不仅提供稳定现金流，更重要的是验证了技术路线的战略价值。",
+      "signalType": "利好",
+      "importance": 7,
+      "subdivision": [
+        "量子硬件",
+        "量子通信"
+      ]
+    },
+    {
+      "id": "news-068",
+      "title": "DARPA选择QuEra进入量子基准测试计划B阶段",
+      "date": "2025-11-06",
+      "source": "PR Newswire",
+      "url": "https://www.prnewswire.com/news-releases/darpa-selects-quera-for-stage-b-of-quantum-benchmarking-initiative-qbi-302606186.html",
+      "category": "商业合作",
+      "tags": [
+        "DARPA",
+        "政府项目",
+        "中性原子"
+      ],
+      "entities": [
+        "QuEra Computing",
+        "DARPA"
+      ],
+      "summary": "美国国防高级研究计划局（DARPA）选择QuEra Computing进入量子基准测试计划（QBI）B阶段。B阶段将在12个月内提供最高1500万美元资金，用于验证QuEra的基线研发计划，之后进入C阶段的独立硬件验证。",
+      "aiInsight": "DARPA的QBI项目是美国政府筛选和培育量子计算核心技术的关键机制。QuEra能够进入B阶段，说明其中性原子技术路线在可扩展性和实用性方面获得了美国国防部的认可。这为QuEra提供了强有力的技术背书和资金支持，有助于其在激烈的技术竞争中脱颖而出。",
+      "signalType": "利好",
+      "importance": 8,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-069",
+      "title": "量子计算股票2025年暴涨：IonQ涨633%，Rigetti涨6770%",
+      "date": "2025-10-17",
+      "source": "The Motley Fool",
+      "url": "https://www.fool.com/investing/2025/10/17/ionq-rgti-qbts-qubt-875-million-warning-to-wall-st/",
+      "category": "融资动态",
+      "tags": [
+        "股价",
+        "市场表现",
+        "投资警示"
+      ],
+      "entities": [
+        "IonQ",
+        "Rigetti Computing",
+        "D-Wave Quantum"
+      ],
+      "summary": "2025年量子计算股票出现惊人涨幅：IonQ上涨633%，Rigetti Computing上涨6770%，D-Wave Quantum上涨4330%，Quantum Computing Inc上涨3040%。然而四家公司合计营收不足8.75亿美元，引发市场对估值泡沫的担忧。",
+      "aiInsight": "量子计算股票的疯狂上涨反映了市场对该领域的极度乐观，但也暴露出严重的估值与基本面脱节。尽管技术突破频现，但商业化进程仍需时日。投资者需警惕短期炒作风险，关注企业的技术护城河、现金储备和商业化路径。这轮上涨更像是2000年互联网泡沫的量子版本，理性投资者应保持谨慎。",
+      "signalType": "风险",
+      "importance": 8,
+      "subdivision": [
+        "量子硬件"
+      ]
+    },
+    {
+      "id": "news-070",
+      "title": "IBM发布容错量子计算路线图，采用qLDPC码",
+      "date": "2024-06-01",
+      "source": "IBM",
+      "url": "https://www.ibm.com/quantum/blog/large-scale-ftqc",
+      "category": "技术动态",
+      "tags": [
+        "容错计算",
+        "qLDPC码",
+        "路线图"
+      ],
+      "entities": [
+        "IBM"
+      ],
+      "summary": "IBM发布明确的容错量子计算路线图，采用量子低密度奇偶校验（qLDPC）码和高效解码器实现纠错。qLDPC码相比传统表面码可大幅降低物理量子比特开销，为实现大规模容错量子计算提供了更现实的路径。",
+      "aiInsight": "IBM的qLDPC码路线图是对Google Willow芯片表面码方案的重要补充和竞争。qLDPC码在理论上具有更高的编码效率，可能成为实现百万量子比特容错系统的关键技术。IBM的明确路线图降低了投资不确定性，为其在量子计算长期竞赛中保持竞争力提供了技术保障。",
+      "signalType": "利好",
+      "importance": 9,
+      "subdivision": [
+        "量子纠错",
+        "量子硬件"
+      ]
+    }
   ]
 }
